@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoReply Bot</string>
+    <string name="accessibility_service_description">Monitors comments on supported social apps and automatically responds to target trigger keywords.</string>
+    <string name="floating_service_notification_channel">Floating Controller Service</string>
+    <string name="floating_service_notification_title">AutoReply Bot Controller Running</string>
+    <string name="floating_service_notification_text">Floating control pill is active on your screen.</string>
+</resources>
